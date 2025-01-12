@@ -2,10 +2,11 @@ const name = "hitesh"
 const repoCount = 50
 
 // console.log(name + repoCount + " Value");
-
+// ${place_olders} use to add string
+//``backticks
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
-const gameName = new String('hitesh-hc-com')
+const gameName = new String('hitesh-hc-com') // new version to declaration is string
 
 // console.log(gameName[0]);
 // console.log(gameName.__proto__);
@@ -29,7 +30,12 @@ console.log(newStringOne.trim());
 const url = "https://hitesh.com/hitesh%20choudhary"
 
 console.log(url.replace('%20', '-'))
+//output "https://hitesh.com/hitesh-choudhary"
 
-console.log(url.includes('sundar'))
+console.log(url.includes('sundar')) // availabel false
 
 console.log(gameName.split('-'));
+
+
+// string prototype --interviwe 
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
