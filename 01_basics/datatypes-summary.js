@@ -36,3 +36,12 @@ console.log(typeof anotherId);
 
 // link for typeof
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+/************************************
+two type of memory type used the data type ...
+
+stack (primitive)  changed in copy value or data
+
+Heap(non-primitive) changed in original value
+
+
