@@ -14,8 +14,8 @@ let age = 18
 let isLoggedIn = false
 let state;
 
-// number => 2 to power 53
-// bigint
+// number => 2^53 limits
+// bigint=   //for large value (stock_m)
 // string => ""
 // boolean => true/false
 // null => standalone value
