@@ -9,7 +9,7 @@ const isLoggedIn = false ///bool
 const outsideTemp = null
 let userEmail;  //undifinde
 
-const id = Symbol('123')  //typeof == symbol
+const id = Symbol('123')  //typeof == symbol   . It represents a unique and immutable value, mainly used as object keys to avoid property name conflicts
 const anotherId = Symbol('123')
 
 console.log(id === anotherId); // false
