@@ -22,7 +22,7 @@ console.log(real_another_array);
 
 
 console.log(Array.isArray("Hitesh")) // false not an array
-console.log(Array.from("Hitesh")) // convert in arr ['H','i','t','e','s','h']
+console.log(Array.from("Hitesh")) // convert in array ['H','i','t','e','s','h']
 console.log(Array.from({name: "hitesh"})) // interesting --- empty arr[]
 
 let score1 = 100
