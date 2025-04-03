@@ -9,7 +9,7 @@ const temperature = 41
 // }
 
 // console.log("Execute");
-// <, >, <=, >=, ==, !=, ===, !==
+// <, >, <=, >=, ==, !=, ===, !==    (=== , !==)type check also and strickly check
 
 // const score = 200
 
