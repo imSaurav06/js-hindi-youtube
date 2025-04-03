@@ -1,6 +1,6 @@
 const accountId = 144553
 let accountEmail = "hitesh@google.com"
-var accountPassword = "12345"
+var accountPassword = "12345" /// not use full couse it is also accessable outside the scope
 accountCity = "Jaipur"
 let accountState;
 
